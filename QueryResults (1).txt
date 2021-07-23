@@ -1,0 +1,38 @@
+Frequency cancel 
+# documents : 55 
+total freq # : 57 
+
+Query cancel 
+found in the following documents: 
+[44, 46, 47, 48, 49, 194, 197, 154, 155, 112, 156, 157, 117, 50, 94, 51, 52, 53, 10, 54, 98, 57, 14, 58, 161, 162, 163, 164, 1, 2, 167, 6, 129, 60, 61, 68, 170, 174, 179, 139, 38, 39, 181, 184, 185, 142, 143, 187, 144, 188, 189, 146, 147, 41, 43] 
+
+Query zoom 
+found in the following documents: 
+[77, 166, 145, 135, 159, 7, 97, 186] 
+
+Frequency zoom 
+# documents : 8 
+total freq # : 8 
+
+Contains cancel 
+cancel is in at least one document
+
+Frequency jacia 
+term does not exist 
+
+Query jacia 
+term does not exist 
+
+Contains jacia  
+term does not exist 
+
+Jacia jacia 
+query command does not exist 
+
+Query Madeleine 
+term does not exist 
+
+Query madelaine   
+found in the following documents: 
+[140, 130, 131, 121, 132, 122, 133, 123, 134, 124, 135, 179, 125, 136, 126, 137, 127, 138, 128, 139, 129] 
+
